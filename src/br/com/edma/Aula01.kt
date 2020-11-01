@@ -30,12 +30,12 @@ fun main() {
         x--
     } */
 
-  //  println(meuNome("Ederson", "Bueno"))
-  //  println(numeroMaior(1,2,3))
-  //  println(cadeiaTexto("eddy", "eddy"))
-  //    numeroImpar(100)
-  //  println(numeroPar(2)
-  //  println(numerosInteiros(2,3,0, 2) )
+    println(meuNome("Ederson", "Bueno"))
+    println(numeroMaior(1,2,3))
+    println(cadeiaTexto("eddy", "eddy"))
+    numeroImpar(100)
+    println(numeroPar(2))
+    println(numerosInteiros(2,3,0, 2) )
     numeroPositivo(100)
 
 }
